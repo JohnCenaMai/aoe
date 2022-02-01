@@ -1,4 +1,2 @@
 tich 1
 tich 2
-tich 4
-tich 3
